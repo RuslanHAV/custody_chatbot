@@ -1,0 +1,17 @@
+langchain
+fastapi
+faiss-cpu
+openai
+PyPDF
+python-dotenv
+python-multipart
+uvicorn[standard]
+gunicorn
+networkx
+tiktoken
+passlib[bcrypt]
+python-jose[cryptography]
+Jinja2
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

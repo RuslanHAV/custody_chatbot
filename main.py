@@ -22,7 +22,7 @@ app.add_middleware(CORSMiddleware, allow_origins=origins,
 
 template = """You are a chatbot having a conversation with a human.
 
-Given the following extracted parts of a long document and a question, create a final answer.
+Based on the these occurrences, can you provide information about any events that have taken place after January 2019?.
 
 {context}
 
